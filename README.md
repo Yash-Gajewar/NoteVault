@@ -2,7 +2,7 @@
 
 NoteVault is a collaborative web app that allows students to upload and retrieve any kind of notes – reference books, handwritten notes, question papers, answer keys, and YouTube videos. The project was developed to help students save their time spent on searching for resources and invest that time into actually gaining knowledge. Students can browse through courses, books, question papers, handwritten notes, resources from other universities and youtube videos. Coordinators such as faculty or appointed teaching assistants can review the document uploaded by student and verfiy it depending on its legitimacy and make the resource public or delete it.
 
-The frontend of the website is developed using Next.js, backend using Django, Firebase for storing resources and Mongo DB database for storing data.
+The frontend of the website is developed using Next.js, backend using FastAPI, MySQL Workbench and Firebase for storing resources.
 
 <!-- First Row -->
 | Login Screen | Home Page |
